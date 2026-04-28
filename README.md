@@ -79,4 +79,4 @@ python descargar_datos.py
 
 ## Sitio desplegado
 
-🔗 <!-- Agrega aquí el link de Streamlit Community Cloud una vez desplegado -->
+🔗 https://proyecto-finalvggit-f8qws7qxn5vfokp2b2b7ic.streamlit.app
